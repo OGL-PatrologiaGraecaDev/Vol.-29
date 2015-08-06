@@ -1,0 +1,50 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/29/ien.35556001660547/011.png"; bbox 0 0 4006 6798; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 289 565 3705 1180">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 289 565 3705 1180">
+     <span class='ocr_line' id='line_1_1' title="bbox 289 565 3705 1180; baseline -0.001 -8"><span class='ocrx_word' id='word_1_1' title='bbox 289 565 3705 1180; x_wconf 69' lang='lat' dir='ltr'>PATROLOGIAE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 982 1374 3032 1508">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 982 1374 3032 1508">
+     <span class='ocr_line' id='line_1_2' title="bbox 982 1374 3032 1508; baseline -0.001 0"><span class='ocrx_word' id='word_1_2' title='bbox 982 1379 1736 1508; x_wconf 90' lang='lat' dir='ltr'>CURSUS</span> <span class='ocrx_word' id='word_1_3' title='bbox 1850 1374 3032 1507; x_wconf 88' lang='lat' dir='ltr'>COMPLETUS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 663 1966 3355 2088">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 663 1966 3355 2088">
+     <span class='ocr_line' id='line_1_3' title="bbox 663 1966 3355 2088; baseline -0.001 -20"><span class='ocrx_word' id='word_1_4' title='bbox 663 1970 1349 2070; x_wconf 90' lang='lat' dir='ltr'>OMNIUM</span> <span class='ocrx_word' id='word_1_5' title='bbox 1425 1970 1594 2068; x_wconf 90' lang='lat' dir='ltr'>SS.</span> <span class='ocrx_word' id='word_1_6' title='bbox 1678 1967 2358 2088; x_wconf 87' lang='lat' dir='ltr'>PATRUM,</span> <span class='ocrx_word' id='word_1_7' title='bbox 2437 1966 3355 2069; x_wconf 86' lang='lat' dir='ltr'>DOCTORUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 507 2188 3504 2319">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 507 2188 3504 2319">
+     <span class='ocr_line' id='line_1_4' title="bbox 507 2188 3504 2319; baseline -0.001 -29"><span class='ocrx_word' id='word_1_8' title='bbox 507 2189 1863 2319; x_wconf 87' lang='lat' dir='ltr'>SCRIPTORUMQUE</span> <span class='ocrx_word' id='word_1_9' title='bbox 1956 2188 3504 2292; x_wconf 85' lang='lat' dir='ltr'>ECCLESIASTICORUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1204 2465 2813 2541">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1204 2465 2813 2541">
+     <span class='ocr_line' id='line_1_5' title="bbox 1204 2465 2813 2541; baseline -0.002 -12"><span class='ocrx_word' id='word_1_10' title='bbox 1204 2467 1395 2529; x_wconf 85' lang='lat' dir='ltr'>SIVE</span> <span class='ocrx_word' id='word_1_11' title='bbox 1437 2465 1986 2541; x_wconf 85' lang='lat' dir='ltr'>LATINORUM,</span> <span class='ocrx_word' id='word_1_12' title='bbox 2028 2466 2220 2530; x_wconf 87' lang='lat' dir='ltr'>SIVE</span> <span class='ocrx_word' id='word_1_13' title='bbox 2261 2465 2813 2528; x_wconf 81' lang='lat' dir='ltr'>GRAECORUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 762 3669 3259 3852">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 762 3669 3259 3852">
+     <span class='ocr_line' id='line_1_6' title="bbox 762 3669 3259 3852; baseline -0 -51"><span class='ocrx_word' id='word_1_14' title='bbox 762 3669 2006 3805; x_wconf 88' lang='lat' dir='ltr'>ACCURANTE</span> <span class='ocrx_word' id='word_1_15' title='bbox 2097 3675 2462 3852; x_wconf 72' lang='lat' dir='ltr'>].-P.</span> <span class='ocrx_word' id='word_1_16' title='bbox 2581 3671 3259 3803; x_wconf 88' lang='lat' dir='ltr'>MIGNE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 1372 3914 2670 3993">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 1372 3914 2670 3993">
+     <span class='ocr_line' id='line_1_7' title="bbox 1372 3914 2670 3993; baseline 0 -3"><span class='ocrx_word' id='word_1_17' title='bbox 1372 3914 1919 3993; x_wconf 80' lang='lat' dir='ltr'>Bibliothecae</span> <span class='ocrx_word' id='word_1_18' title='bbox 1967 3918 2187 3992; x_wconf 79' lang='lat' dir='ltr'>Cleri</span> <span class='ocrx_word' id='word_1_19' title='bbox 2241 3917 2670 3992; x_wconf 82' lang='lat' dir='ltr'>Universae</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_8' title="bbox 1289 5622 2746 5698">
+    <p class='ocr_par' dir='ltr' id='par_1_8' title="bbox 1289 5622 2746 5698">
+     <span class='ocr_line' id='line_1_8' title="bbox 1289 5622 2746 5698; baseline -0.003 0"><span class='ocrx_word' id='word_1_20' title='bbox 1289 5623 1787 5698; x_wconf 89' lang='lat' dir='ltr'>BREPOLS</span> <span class='ocrx_word' id='word_1_21' title='bbox 1901 5663 1998 5677; x_wconf 91' lang='lat'>—</span> <span class='ocrx_word' id='word_1_22' title='bbox 2102 5622 2746 5697; x_wconf 89' lang='lat' dir='ltr'>TURNHOUT</span> 
+     </span>
+    </p>
+   </div>
+  </div>

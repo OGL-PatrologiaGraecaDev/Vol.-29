@@ -1,0 +1,30 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/29/nnc1.0046978755/003.png"; bbox 0 0 1910 3105; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 511 959 1303 1280">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 524 964 1299 1280">
+     <span class='ocr_line' id='line_1_1' title="bbox 524 964 1299 1280; baseline 0.006 -159"><span class='ocrx_word' id='word_1_1' title='bbox 524 964 531 1280; x_wconf 54' lang='grc' dir='ltr'><strong><em>ι</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 670 1073 886 1123; x_wconf 66' lang='lat' dir='ltr'>Qtnlumhia</span> <span class='ocrx_word' id='word_1_3' title='bbox 904 1075 1157 1134; x_wconf 64' lang='lat' dir='ltr'>EHninerm’tp</span> <span class='ocrx_word' id='word_1_4' title='bbox 1292 971 1299 1280; x_wconf 66' lang='grc' dir='ltr'><strong>Ι</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 705 1139 1121 1191; baseline 0.007 -13"><span class='ocrx_word' id='word_1_5' title='bbox 705 1139 1121 1191; x_wconf 55' lang='lat' dir='ltr'>intbeﬂitpntmmizark</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 776 1238 1043 1266; baseline 0.011 -3"><span class='ocrx_word' id='word_1_6' title='bbox 776 1238 847 1263; x_wconf 86' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_7' title='bbox 867 1239 1043 1266; x_wconf 84' lang='lat' dir='ltr'>LIBRARIES</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 670 1073 1157 1134">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 670 1073 1157 1134">
+     <span class='ocr_line' id='line_1_4' title="bbox 670 1073 1157 1134; baseline 0.004 -11"><span class='ocrx_word' id='word_1_8' title='bbox 670 1073 886 1123; x_wconf 66' lang='lat' dir='ltr'>Qtnlumhia</span> <span class='ocrx_word' id='word_1_9' title='bbox 904 1075 1157 1134; x_wconf 64' lang='lat' dir='ltr'>EHninerm’tp</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 705 1139 1121 1191">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 705 1139 1121 1191">
+     <span class='ocr_line' id='line_1_5' title="bbox 705 1139 1121 1191; baseline 0.007 -13"><span class='ocrx_word' id='word_1_10' title='bbox 705 1139 1121 1191; x_wconf 55' lang='lat' dir='ltr'>intbeﬂitpntmmizark</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 776 1238 1043 1266">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 776 1238 1043 1266">
+     <span class='ocr_line' id='line_1_6' title="bbox 776 1238 1043 1266; baseline 0.011 -3"><span class='ocrx_word' id='word_1_11' title='bbox 776 1238 847 1263; x_wconf 85' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_12' title='bbox 867 1239 1043 1266; x_wconf 84' lang='lat' dir='ltr'>LIBRARIES</span> 
+     </span>
+    </p>
+   </div>
+  </div>

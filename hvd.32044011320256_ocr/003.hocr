@@ -1,0 +1,50 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/29/hvd.32044011320256/003.png"; bbox 0 0 1996 3196; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 777 1582 1095 1872">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 777 1582 1092 1872">
+     <span class='ocr_line' id='line_1_1' title="bbox 777 1582 1092 1872; baseline -0.057 -213"><span class='ocrx_word' id='word_1_1' title='bbox 780 1582 1092 1872; x_wconf 43' lang='grc' dir='ltr'>ἨᾎῌΨ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 698 1975 1201 2047">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 698 1975 1201 2047">
+     <span class='ocr_line' id='line_1_2' title="bbox 698 1975 1201 2047; baseline -0.026 2"><span class='ocrx_word' id='word_1_2' title='bbox 698 1975 1201 2047; x_wconf 74' lang='lat' dir='ltr'>HARVARD</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 702 2086 1204 2158">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 702 2086 1204 2158">
+     <span class='ocr_line' id='line_1_3' title="bbox 702 2086 1204 2158; baseline -0.024 2"><span class='ocrx_word' id='word_1_3' title='bbox 702 2086 1204 2158; x_wconf 89' lang='lat' dir='ltr'>COLLEGE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 703 2196 1206 2270">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 703 2196 1203 2270">
+     <span class='ocr_line' id='line_1_4' title="bbox 703 2196 1203 2270; baseline -0.024 1"><span class='ocrx_word' id='word_1_4' title='bbox 703 2196 1203 2270; x_wconf 66' lang='lat' dir='ltr'>IJBRARY</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 773 1707 777 1862">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 773 1707 777 1715">
+     <span class='ocr_line' id='line_1_5' title="bbox 773 1707 777 1715; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 773 1707 777 1715; x_wconf 82' lang='grc'><strong>1</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 1102 1424 1109 1613">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 1102 1424 1109 1613">
+     <span class='ocr_line' id='line_1_6' title="bbox 1102 1424 1109 1613; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 1102 1424 1109 1613; x_wconf 67' lang='grc' dir='ltr'><strong>ν</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 924 1424 933 1653">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 924 1424 933 1653">
+     <span class='ocr_line' id='line_1_7' title="bbox 924 1424 933 1653; baseline 0 -10"><span class='ocrx_word' id='word_1_7' title='bbox 924 1424 933 1653; x_wconf 64' lang='grc' dir='ltr'><strong><em>Η</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_8' title="bbox 1095 1424 1103 1653">
+    <p class='ocr_par' dir='ltr' id='par_1_8' title="bbox 1095 1424 1103 1653">
+     <span class='ocr_line' id='line_1_8' title="bbox 1095 1424 1103 1653; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 1099 1424 1103 1653; x_wconf 43' lang='grc' dir='ltr'>ἲ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
